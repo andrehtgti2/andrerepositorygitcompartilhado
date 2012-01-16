@@ -1,0 +1,8 @@
+facadeEBDataBase.getString(rs,"
+facadeEBDataBase.getInt(rs,"
+facadeEBDataBase.getDate(rs,"
+facadeEBDataBase.getBigDecimal(rs,"
+facadeEBDataBase.getString(rs,"
+facadeEBDataBase.getInt(rs,"
+facadeEBDataBase.getDate(rs,"
+facadeEBDataBase.getBigDecimal(rs,"
