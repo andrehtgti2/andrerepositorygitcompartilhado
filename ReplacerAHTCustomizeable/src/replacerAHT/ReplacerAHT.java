@@ -39,7 +39,10 @@ import util.AtualizaCombo;
 import util.FileNames;
 
 
-public class ReplacerAHT extends JFrame{//
+public class ReplacerAHT extends JFrame{
+	
+	
+	//ALTERADO PELO ANDRE
 	
 	
 //------------------------------------------------------------------------------------------------------------------------------------------	
