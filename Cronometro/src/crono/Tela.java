@@ -17,7 +17,7 @@ public class Tela extends JFrame {
 	Button resume;	
 	TextField textField;	
 	Label label;	
-	static Tela tela;
+	static Tela tela; 
 			
 	//psvm
 	public static void main(String[] args) {
