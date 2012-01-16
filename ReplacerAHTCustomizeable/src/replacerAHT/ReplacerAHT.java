@@ -43,16 +43,21 @@ public class ReplacerAHT extends JFrame{
 	
 	
 	//ALTERADO PELO ANDRE
+	//lmdaljdkhahla
+	//nfkanhflanfla
+	//dhnvdnhfshfshfshfsfsfhshfsfhshfsfjjf
+	
+	//Adicinado de novo pelo André
 	
 	//Comentario !!
 	
-	//AAAAAAAAAAAAAAAAAAA
+	
+	
 	
 	
 	//Adicinado de novo pelo André
 	
-	
-//------------------------------------------------------------------------------------------------------------------------------------------	
+	//------------------------------------------------------------------------------------------------------------------------------------------	
 	//constantes
 	public static final String tituloTela = "ReplacerAHT v7.0 - Java6 - Customizable ... André Hiroshi Tanaka - Ænd®& - 08/02/2010 - (tamanhoInicial.conf) - Combo";
 	public static final int larguraMaior = 58;		//larguraMenor = 50		//larguraMaior = 58
